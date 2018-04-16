@@ -1,0 +1,43 @@
+commit 21cbbbafed0d9263a18b4f68d11f2dee247dc066
+Author: VicttLai <38440044+VicttLai@users.noreply.github.com>
+Date:   Mon Apr 16 15:39:50 2018 -0400
+
+    Collaboration
+
+commit 4537a99cb47f0ca2edb71cf9c69d9d60d10592f8
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 15:17:18 2018 -0400
+
+    2
+
+commit e0df9228a9f3083d529697e6a1b14d126c264007
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 10:15:54 2018 -0400
+
+    2
+
+commit f34a99180e858775d209a6b5fd75b56d03cf9676
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 10:13:02 2018 -0400
+
+    1
+
+commit ed952062096c9916d0a024683ba05d73a6381218
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 09:46:45 2018 -0400
+
+    2
+
+commit 351205aa077daadf8347f7d3ccabf443dd13bd89
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 09:46:09 2018 -0400
+
+    Change 1
+    
+    intro to git lab
+
+commit ce5139c93bb91468667722eeb66ee8d25deec3c2
+Author: bamorales <38429635+bamorales@users.noreply.github.com>
+Date:   Mon Apr 16 09:13:33 2018 -0400
+
+    Initial commit
